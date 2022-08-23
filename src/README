@@ -1,0 +1,3 @@
+bsd-ce is a small tool which can convert a BSD ELF kernel to a Windows CE
+NK.BIN kernel file. The resulting nk.bin file can then be fed to a Windows CE
+loader in order to boot FreeBSD on your otherwise CE-only device :-)
